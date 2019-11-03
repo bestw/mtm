@@ -1,5 +1,4 @@
 /**
- * Copyright (c), 2017, CRRC Zhuzhou Locomotive Co., Ltd.
  * @file device.c
  * @brief basic device management functions.
  * @author WANG Jun
